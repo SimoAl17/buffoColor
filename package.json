@@ -1,6 +1,6 @@
 {
   "name": "@simoal17/buffocolor",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "I'm following a tutorial",
   "main": "buffoColor.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/SimoAl17/buffoColor/issues"
   },
-  "homepage": "https://github.com/SimoAl17/buffoColor#readme"
+  "homepage": "https://github.com/SimoAl17/buffoColor#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.10",
+    "jsdoc-to-markdown": "^7.1.1"
+  }
 }
