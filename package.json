@@ -1,0 +1,19 @@
+{
+  "name": "@simoal17/buffocolor",
+  "version": "1.0.1",
+  "description": "I'm following a tutorial",
+  "main": "buffoColor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimoAl17/buffoColor.git"
+  },
+  "author": "SimoAl17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimoAl17/buffoColor/issues"
+  },
+  "homepage": "https://github.com/SimoAl17/buffoColor#readme"
+}
